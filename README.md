@@ -93,3 +93,6 @@
 
 ```bash
 pip install -r requirements.txt
+2️⃣### تشغيل التطبيق
+streamlit run app.py
+
