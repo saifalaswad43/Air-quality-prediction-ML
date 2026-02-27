@@ -93,6 +93,8 @@
 
 pip install -r requirements.txt
 
+---
+
 ### 👨‍💻 Author
 
 **Saif Alaswad**  
