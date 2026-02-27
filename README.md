@@ -93,14 +93,9 @@
 
 ```bash
 pip install -r requirements.txt
-2️⃣ تشغيل التطبيق
-streamlit run app.py
-🚀 تطوير مستقبلي
 
-تحسين Hyperparameter Tuning
+### 👨‍💻 Author
 
-دعم بيانات لحظية (Real-Time Prediction)
-
-نشر النموذج كـ API
-
-تحسين تجربة المستخدم داخل التطبيق
+**Saif Alaswad**  
+AI & Machine Learning Engineer  
+Benha University – Computer Science & AI
