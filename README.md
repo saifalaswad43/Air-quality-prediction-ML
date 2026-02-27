@@ -95,12 +95,13 @@
 pip install -r requirements.txt
 ```
 
+---
 ### 2️⃣ تشغيل التطبيق
 
 ```bash
 streamlit run app.py
 ```
-
+---
 ### 👨‍💻 Author
 
 **Saif Alaswad**  
