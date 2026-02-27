@@ -91,7 +91,6 @@
 
 ### 1️⃣ تثبيت المتطلبات
 
-```bash
 pip install -r requirements.txt
 
 ### 👨‍💻 Author
